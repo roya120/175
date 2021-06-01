@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Zoo Directoryy</string>
+
+    <string name="phone">TEL: 888-8888</string>
+    <string name="warning">This animal is scary!\nDo you want to proceed?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="elephant">Elephant</string>
+    <string name = "elephantDescription"> Elephants are the largest existing land animals. Three species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant. Elephantidae is the only surviving family of the order Proboscidea; extinct members include the mastodons.</string>
+
+    <string name="tiger">Tiger</string>
+    <string name="tigerDescription">The tiger is the largest extant cat species and a member of the genus Panthera. It is most recognisable for its dark vertical stripes on orange-brown fur with a lighter underside. It is an apex predator, primarily preying on ungulates such as deer and wild boar.</string>
+
+    <string name="bear">Bear</string>
+    <string name="bearDescription">Bears are carnivoran mammals of the family Ursidae. They are classified as caniforms, or doglike carnivorans. Although only eight species of bears are extant, they are widespread, appearing in a wide variety of habitats throughout the Northern Hemisphere and partially in the Southern Hemisphere.</string>
+
+    <string name="girafee">Giraffe</string>
+    <string name= "giraffeDescription"> The giraffe (Giraffa) is an African artiodactyl mammal, the tallest living terrestrial animal and the largest ruminant. It is traditionally considered to be one species, Giraffa camelopardalis, with nine subspecies. However, the existence of up to eight extant giraffe species has been described, based upon research into the mitochondrial and nuclear DNA, as well as morphological measurements of Giraffa. Seven other species are extinct, prehistoric species known from fossils.</string>
+
+    <string name="koala">Koala</string>
+    <string name="koalaDescription">The koala or, inaccurately, koala bear is an arboreal herbivorous marsupial native to Australia. It is the only extant representative of the family Phascolarctidae and its closest living relatives are the wombats, which are members of the family Vombatidae.</string>
+
+</resources>
